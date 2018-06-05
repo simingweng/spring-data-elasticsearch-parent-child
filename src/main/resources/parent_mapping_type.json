@@ -1,0 +1,10 @@
+{
+  "parents": {
+    "properties": {
+      "birthCertificateId": {
+        "type": "string",
+        "index": "not_analyzed"
+      }
+    }
+  }
+}
